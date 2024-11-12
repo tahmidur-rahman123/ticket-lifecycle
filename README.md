@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 Intake
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Customer with issues or problems would go to the support page and start filling out the form and describing the problem they are having. They would fill in their contact information so they can be contacted with questions and or updates on the issue. And they would provide a summary of the issue they are having. Thus creating a ticket to be solved
 </p>
 <br />
 
@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Assignment and Communication
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As the help desk personnel you would look over the ticket that was created and start working the ticket. You would determine the severity, who the ticket should be assigned to and contact the customer with questions if needed and make notes. You would assign the ticket to someone if you couldn't do it yourself and contact them to let them know about the ticket that is coming their way.
 </p>
 <br />
 
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Working the Issue
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the ticket is assigned to the correct person who can resolve the issue, they would work on it and keep in contact with the customer providing updates and making sure the issue gets resolved. They would also create notes and records on the ticket page to show the steps and proof for the issue being worked on
 </p>
 <br />
 
@@ -73,6 +73,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Resolution
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the issue is resolved and the customer is happy with the result, you would resolve the ticket. Which closes the ticket and the ticket goes from open to closed with a record showing the ticket that was created and all the steps recorded to resolve the issue
 </p>
 <br />
