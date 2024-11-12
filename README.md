@@ -26,7 +26,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  ![osTicket Intake pic](https://github.com/user-attachments/assets/5e856059-8366-4425-8636-3de9c29f4fe4)
+  
 </p>
 <p>
 
@@ -37,7 +39,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket Assignment Pic](https://github.com/user-attachments/assets/644589a6-25d3-4808-8c36-1ce2a854b230)
+  
 </p>
 <p>
 
@@ -48,7 +52,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  ![osTicket Resolved](https://github.com/user-attachments/assets/1459b643-e833-42ca-bad3-a49cad905cfc)
+  
 </p>
 <p>
 
@@ -60,7 +66,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket Resolved 1](https://github.com/user-attachments/assets/b0b9c5e3-cf48-492c-a001-7aac61d00106)
 </p>
 <p>
 
